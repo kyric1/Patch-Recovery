@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://www.mediafire.com/file/ofoh6o49rqspmi6/recovery.img.lz4/file'
+        default: 'https://www.transfer.sh/(RECOMMENDED)'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
